@@ -7,6 +7,10 @@ Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: http
 
 Fabric 1.19.2'Yi açın minecraft launcher yada tlauncher ile ve hazırsınız, Iyi günler!
 
+# Bilgi:
+
+Fiarlyy_Updater.exe'Yi açtığınız her zaman fabric paketi güncelmi diye kontrol edecektir, Güncel değilsede güncelleyecektir, Güncelsede size onu iletecektir.
+
 # Virustotal:
 
 https://www.virustotal.com/gui/file/3533e31de4fc139ecaba8e5ad8dbcfdd8976af8df9da3fccb3e33306d87a437d?nocache=1
