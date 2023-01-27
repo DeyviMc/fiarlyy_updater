@@ -5,7 +5,7 @@ Vanilla minecraft 1.19.2 yi bir kere çalıştırıp açılınca kapatın,
 
 Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: https://github.com/xdolarlar/fiarlyy_updater/releases/download/Updater/fiarlyy_updater_0.3.exe),
 
-Fabric 1.19.2'Yi açın minecraft launcher yada tlauncher ile ve hazırsınız, Iyi günler!
+Fabric 1.19.2'Yi açın minecraft launcher yada tlauncher ile ve hazırsınız, Iyi günler! (Fiarlyy_Updater.exe Fabric indirili değilse otomatik olarak indirir.)
 
 # Bilgi:
 
