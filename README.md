@@ -2,7 +2,7 @@
 
 
 Fabric 1.19.2'Yi indirip
-Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın!
+Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: https://github.com/DeyviMc/fiarlyy_updater/raw/main/Fiarlyy_Updater.exe)
 Fabric 1.19.2'Yi açın minecraft launcher yada tlauncher ile ve hazırsınız, Iyi günler!
 
 # Virustotal:
