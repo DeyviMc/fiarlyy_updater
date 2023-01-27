@@ -1,7 +1,7 @@
 # Fiarlyy Updater:
 
 
-Fabric 1.19.2'Yi indirip (Indirme linki: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.exe)
+Fabric 1.19.2'Yi indirin (Indirme linki: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.exe)
 
 Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: https://github.com/DeyviMc/fiarlyy_updater/raw/main/Fiarlyy_Updater.exe)
 
