@@ -1,9 +1,9 @@
 # Fiarlyy Updater:
 
 
-Fabric 1.19.2'Yi indirin (Indirme linki: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.exe)
+Vanilla minecraft 1.19.2 yi bir kere çalıştırıp açılınca kapatın,
 
-Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: https://github.com/xdolarlar/fiarlyy_updater/releases/download/Updater/fiarlyy_updater_0.3.exe)
+Fiarlyy_Updater.exe Dosyasını indirin ve çalıştırın! (Indirme linki: https://github.com/xdolarlar/fiarlyy_updater/releases/download/Updater/fiarlyy_updater_0.3.exe),
 
 Fabric 1.19.2'Yi açın minecraft launcher yada tlauncher ile ve hazırsınız, Iyi günler!
 
