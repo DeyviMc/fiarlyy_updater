@@ -1,3 +1,7 @@
+# UYARI!!!
+Bu proje üstünde çalışmalar bitmiştir!
+# UYARI!!!
+
 # Fiarlyy Updater:
 
 
