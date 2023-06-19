@@ -24,7 +24,7 @@ if os.path.exists(mainFolder) == False:
 #Functions
 
 def getLatestClientVersion():
-    response = requests.get("https://raw.githubusercontent.com/DeyviMc/fiarlyy_updater/main/latestVersion.txt")
+    response = requests.get("https://raw.githubusercontent.com/xdolarlar/fiarlyy_updater/main/latestVersion.txt")
     return(response.text)
     
 def getCurrentClientVersion():
@@ -43,7 +43,7 @@ def update():
     if os.path.exists(mainFolder + 'mods.zip'):
         pass
     else:
-        URL = "https://github.com/DeyviMc/fiarlyy_updater/raw/main/mods.zip"
+        URL = "https://github.com/xdolarlar/fiarlyy_updater/raw/main/mods.zip"
         response = wget.download(URL, mainFolder + 'mods.zip')
         print("\nIndirme tamamlandı!")
     if os.path.exists('C:/Users/' + user + '/AppData/Roaming/.minecraft/mods'):
