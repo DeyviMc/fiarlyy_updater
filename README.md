@@ -1,6 +1,8 @@
 # UYARI!!!
 Bu proje üstünde çalışmalar bitmiştir!
 
+(Projenin .exe hali çalışmıyodur, Çalıştırmak için kaynak kodunu çalıştırınız.)
+
 # Fiarlyy Updater:
 
 
