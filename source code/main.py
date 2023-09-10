@@ -14,7 +14,7 @@ user = os.getlogin()
 launcherVersion = 0.3
 
 #Copyright claim
-print("Copyright: Made by Endernah)
+print("Copyright: Made by Endernah")
 system("title " + "Fiarlyy Updater (" + str(launcherVersion) + ")")
 
 #Codes
