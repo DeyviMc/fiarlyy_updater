@@ -1,10 +1,19 @@
+# En son versiona guncellendi! (Guncel source.)
+
+import os
+os.system("pip install wget")
+os.system("pip install requests")
+i=1
+while i<250:
+    i=i+1
+    print("")
+
 import sys
 import time
 import zipfile
 import shutil
 import wget
 import requests
-import os
 import os.path
 from os import system
 
