@@ -29,7 +29,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run
       run: |
-        python3 main.py
+        python3 '/home/runner/work/fiarlyy_updater/fiarlyy_updater/source code/main.py'
     - name: Test with pytest
       run: |
         pytest
