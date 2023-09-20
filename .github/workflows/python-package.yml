@@ -12,11 +12,11 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.9", "3.10", "3.11"]
+        python-version: ["3.11"]
 
     steps:
     - uses: actions/checkout@v3
@@ -29,7 +29,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run
       run: |
-        python3 '/home/runner/work/fiarlyy_updater/fiarlyy_updater/source code/main.py'
+        python3 'source code/main.py'
     - name: Test with pytest
       run: |
         pytest
